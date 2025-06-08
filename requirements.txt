@@ -1,10 +1,10 @@
 ## Use python 3.9
 
 numpy 
-torch 
-torchvision  
-torchaudio 
-torchtext 
+torch==2.3.0
+torchvision==0.18 
+torchaudio
+torchtext==0.18.0
 datasets 
 tokenizers 
 torchmetrics 
